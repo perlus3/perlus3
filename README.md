@@ -3,7 +3,7 @@
 # :gem: About me:
 
 ### :raising_hand: Hi! My name is Kamil, I'm 28 years old, and I'm learning web development with JavaScript/TypeScript.
-### :telescope: I'm looking for a job as Junior FullStack Developer.
+### :telescope: I'm looking for a job as Junior JavaScript/TypeScript Developer.
 
 # :muscle: Contact me:
 
